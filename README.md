@@ -1,2 +1,2 @@
 # password-generator
-генератор паролей на pythin
+генератор паролей на python
